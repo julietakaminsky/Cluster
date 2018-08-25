@@ -1,0 +1,15 @@
+Package: Cluster
+Type: Package
+Title: Identificar la presencia de ensambles a partir de análisis de agrupamiento (cluster)
+Version: 0.1.0.9000
+Author: JK
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: Este paquete calcula la distancia entre estaciones y realiza un análisis de agrupamiento 
+  siguiendo el método de Ward's para construir un cluster
+License: What license is it under? MIT?
+Imports: please check to have the following libraries vegan, gclus, cluster, RColorBrewer,labdsv
+Encoding: UTF-8
+LazyData: true
+Depends: R version 3.5.1
+URL: https://github.com/julietakaminsky/KaminskyTPProg.git
+Bugreport: 
