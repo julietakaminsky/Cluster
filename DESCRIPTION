@@ -7,7 +7,7 @@ Maintainer: The package maintainer <yourself@somewhere.net>
 Description: Este paquete calcula la distancia entre estaciones y realiza un análisis de agrupamiento 
   siguiendo el método de Ward's para construir un cluster
 License: What license is it under? MIT?
-Imports: please check to have the following libraries vegan, gclus, cluster, RColorBrewer,labdsv
+Imports: vegan, gclus, cluster, RColorBrewer,labdsv
 Encoding: UTF-8
 LazyData: true
 Depends: R (>= 3.5.1)
