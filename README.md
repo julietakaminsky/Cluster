@@ -11,7 +11,7 @@ require("devtools")
 devtools::install_github("julietakaminsky/Cluster")
 
 ## Ejemplos
-El archivo 'Data.csv' tiene un ejemplo de set de datos con número de individuos de las especies por estación.
+El archivo 'epifauna.csv' tiene un ejemplo de set de datos con número de individuos de las especies por estación.
 
 Para ver ejemplos de aplicación de este análisis en el marco de estudios ecológicos, se sugiere:
 
